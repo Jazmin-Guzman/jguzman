@@ -1,5 +1,4 @@
-# jguzman
-Repositorio de entrega de la asignatura Tecnologías de la Información y Comunicación
+
 ### Universidad Nacional Autonoma de México 
 #### Escuela Nacional de Estudios  Superiores Unidad Mérida 
 #### Licenciatura en Gegrafía Aplicada
