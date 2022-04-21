@@ -1,6 +1,35 @@
 /* Archivo de estilos */
 
+body {
+background-color: #FFD9F7;
+}
 img{
   width: auto;
   height: auto;
 }
+#name {
+color: #F72FB5;
+font-family: 'Square Peg', cursive;
+font-size: 50px;
+}
+
+.azul{
+color: #0000FF;
+font-family: 'Updock', cursive;
+}
+
+.parrafo{
+color: #3CF723;
+font-family: 'Poppins', sans-serif;
+font-size: 20px;
+
+}
+
+.lista{
+color: #9054F8;
+}
+
+.listas{
+color: #9054F8;
+}
+
