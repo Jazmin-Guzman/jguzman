@@ -5,13 +5,23 @@ body {
 }
 
 /* Estilo del nombre de geovbisualizador */
-.titgeo{
+./*titgeo{
 	color: #0FD2F7;
+}*/
+
+/* Estilo del nombre de la asignatura */
+.titgeo{
+	color: #E18EFA;
 	background-color: #F7910F
-	font family:
+	font family: 'Macondo', cursive; 
 }
 
-
+/* Estilo del nombre de licenciatura 
+.titgeo{
+	color: #23DE7C;
+	background-color: #F7910F
+	font family: 'Macondo', cursive; 
+} */
 /* #tabla{
     width: auto;
     height: auto;
@@ -19,7 +29,13 @@ body {
 
 
 img.escudo{
-  width: 30%;
+  width: 70%;
+}
+
+.fondoesc{
+	background: #DEC523
+	/*font-family:;
+	font-size:;*/
 }
 
 img.cc{
