@@ -4,17 +4,19 @@ body {
   background-color: #F5F5F5;
 }
 
-/* Estilo del nombre de geovbisualizador */
+/* Estilo del título */
+#titgeo{
+	color: #E18EFA;
+	background-color: #F7910F;
+	font family: 'Macondo', cursive; 
+}
+
+/* Estilo del nombre de geovisualizador */
 ./*titgeo{
 	color: #0FD2F7;
 }*/
 
-/* Estilo del nombre de la asignatura */
-.titgeo{
-	color: #E18EFA;
-	background-color: #F7910F
-	font family: 'Macondo', cursive; 
-}
+
 
 /* Estilo del nombre de licenciatura 
 .titgeo{
