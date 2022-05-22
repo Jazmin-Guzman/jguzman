@@ -8,7 +8,7 @@ body {
 #titgeo{
 	color: #10157A;
 	background-color: #F2ABF7;
-	font-family: 'Macondo', cursive;
+	font-family: 'Montserrat', sans-serif;
 }
 
 /* Estilo del nombre de la asignatura */
@@ -22,7 +22,7 @@ body {
 #titlic{
 	color: #F2ABF7;
 	background-color: #10157A; 
-	font-family: 'Macondo', cursive; 
+	font-family: 'Akshar', sans-serif; 
 } 
 
 /* #tabla{
@@ -32,7 +32,7 @@ body {
 
 
 img.escudo{
-  width: 70%;
+  width: 50%;
 }
 
 .fondoesc{
@@ -71,11 +71,11 @@ div.a {
 }
 
 a:link {
-  color: #4A5978;
+  color: #070707;
 }
 
 a:visited {
-  color: #0A2F7A;
+  color: #F7F70F;
 }
 
 a:hover {
@@ -84,6 +84,6 @@ a:hover {
 }
 
 .links{
-background: #77A0F2; 
+background: #05C9DD; 
 font-family: 'Ms Madi', cursive;	
 }
