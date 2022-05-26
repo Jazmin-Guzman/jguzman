@@ -13,16 +13,16 @@ body {
 
 /* Estilo del nombre de la asignatura */
 #titas{
-	color: #10157A;
-	background-color: #F799D6; 
-	font-family: 'Macondo', cursive;
+	color: #0E185F;
+	background-color: #8CC0DE; 
+	font-family: 'Spline Sans Mono', monospace;
 }
 
 /*Estilo del nombre de licenciatura*/ 
 #titlic{
-	color: #F2ABF7;
-	background-color: #10157A; 
-	font-family: 'Akshar', sans-serif; 
+	color: 361500;
+	background-color: #F4BFBF; 
+	font-family: 'Bebas Neue', cursive;
 } 
 
 #tabla{
@@ -36,7 +36,7 @@ img.escudo{
 }
 
 .fondoesc{
-	background: #BDCEF0
+	background: #B4ECE3
 	/*font-family:;
 	font-size:;*/
 }
@@ -71,19 +71,19 @@ div.a {
 }
 
 a:link {
-  color: #070707;
+  color: #000000;
 }
 
 a:visited {
-  color: #3BACF5;
+  color: #F10086;
 }
 
 a:hover {
   border-bottom: 1px solid;
-  background: #91F2DD;
+  background: #FAD9E6;
 }
 
 .links{
-background: #B907F2; 
+background: #E15FED; 
 font-family: 'Poppins', sans-serif;	
 }
