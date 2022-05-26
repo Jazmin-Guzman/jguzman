@@ -20,7 +20,7 @@ body {
 
 /*Estilo del nombre de licenciatura*/ 
 #titlic{
-	color: 361500;
+	color: #361500;
 	background-color: #F4BFBF; 
 	font-family: 'Bebas Neue', cursive;
 } 
@@ -37,8 +37,6 @@ img.escudo{
 
 .fondoesc{
 	background: #B4ECE3
-	/*font-family:;
-	font-size:;*/
 }
 
 img.cc{
@@ -86,4 +84,11 @@ a:hover {
 .links{
 background: #E15FED; 
 font-family: 'Poppins', sans-serif;	
+}
+
+/*Estilo del contenido*/ 
+#contenido{
+color: #361500;
+background-color: #FDD7AA; 
+font-family: 'Raleway', sans-serif;
 }
