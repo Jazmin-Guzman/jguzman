@@ -26,8 +26,8 @@ body {
 } 
 
 #tabla{
-    width: auto;
-    height: auto;
+    border-collapse: collapse;
+	padding: 0px;
 }
 
 
@@ -91,4 +91,6 @@ font-family: 'Poppins', sans-serif;
 color: #293462;
 background-color: #FFF2F2; 
 font-family: 'Roboto', sans-serif;
+padding: 10px;
+font-size: 10px;
 }
