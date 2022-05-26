@@ -7,8 +7,8 @@ body {
 /* Estilo del título */
 #titgeo{
 	color: #10157A;
-	background-color: #F2ABF7;
-	font-family: 'Montserrat', sans-serif;
+	background-color: #F8ABDC;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 /* Estilo del nombre de la asignatura */
@@ -25,14 +25,14 @@ body {
 	font-family: 'Akshar', sans-serif; 
 } 
 
-/* #tabla{
+#tabla{
     width: auto;
     height: auto;
-} */
+}
 
 
 img.escudo{
-  width: 50%;
+  width: 60%;
 }
 
 .fondoesc{
