@@ -2,47 +2,73 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Ciudad blanca</title>
+    <title>Ciudad Blanca</title>
     <link rel="icon" type="image/png" href="./img/faviconm.png" sizes="96x96">
     <link rel="stylesheet" href="./css/estilojaz.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
   </head>
 
 <body>
-  <table id="tabla" border="1" style="width:100%; height:100%;">
+  <table id="tabla" style="width:100%; height:100%;">
     <thead class="banner" style="text-align:center">
       <tr>
         <th class=fondoesc rowspan="3" ><img class="escudo" src="./img/logos_enes07.8bb84339.png" alt="ENES Mérida"></th>
         <td id="titgeo"><h2>Segregación socioespacial en Mérida</h2></td> <!--Aqui tengo que ponder el titulo de mi tema Geo Urbana-->
       </tr>
       <tr>
-        <td >Licenciatura en Geografía Aplicada</td> <!--class="name"-->
+        <td id="titlic"><h2>Licenciatura en Geografía Aplicada</br>Alumna: Perla Jazmín Guzmán Bautista</h2></td> <!--class="name"-->
       </tr>
       <tr>
-        <td>Tecnologías de la Información y Comunicación 2022-2<br>Profra. Mtra Rosa Martha Peralta Blanco</br></td>
+        <td id="titas"><h4>Tecnologías de la Información y Comunicación 2022-2 
+		</br>Profra. Mtra Rosa Martha Peralta Blanco</h4></td>
       </tr>
     </table>
     </thead>
     <tbody>
-      <table id="tabla" border="1" style="width:100%; height:100%;">
+      <table id="tabla" style="width:100%; height:100%;">
       <tr>
-        <td><a href="Index.html" target="_self">Inicio</a></td>
-        <td><a href="MapaPedro.html" target="_self">Mapa Pedro</td>
-        <td><a href="Mapa Jaz.html" target="_self">Tema de Jaz</td>
-        <td><a href="MapaAndres.html" target="_self">Tema de Andres</td>
-        <td><a href="MapaLalo.html" target="_self">Tema de Lalo</td>
-        <td><a href="MapaAlvaro.html" target="_self">Tema de Alvaro</td>
-        <td><a href="MapaVale.html" target="_self">Tema de Vale</td>
+        <td class="links"><a href="Index.html" target="_self">Inicio</a></td>
+        <td class="links"><a href="MapaPedro.html" target="_self">Lengua Indígena</td>
+        <td class="links"><a href="Mapa Jaz.html" target="_self">Segregación socioespacial</td>
+        <td class="links"><a href="MapaAndres.html" target="_self">Gentrificación</td>
+        <td class="links"><a href="MapaLalo.html" target="_self">Migración en Mérida</td>
+        <td class="links"><a href="MapaVale.html" target="_self">Tema de Vale</td>
+        <td class="links"><a href="Index.html" target="_self">Contacto</td>
       </tr>
       <tr>
-        <td colspan="6">MAPITA
-        	<!--<iframe class="qgiscloud" style="height:550px;" src="https://qgiscloud.com/JazminGuzman/PracticaMerida/" frameborder="0" ></iframe>
-			-->
+        <td colspan="5">
+        	<iframe class="qgiscloud" style="height:1000px;" src="https://qgiscloud.com/JazminGuzman/PracticaMerida2/" frameborder="0" ></iframe>
+			
         </td>
-        <td style="width:30px;"" colspan="6">
-          Sisal es un puerto mexicano ubicado en el litoral nor-poniente del Estado de Yucatán, </br> en el Golfo de México y localizado en el municipio de Hunucmá. </br> En el pasado fue llamado también Santa María de Zizal.7​Sisal fue históricamente el principal puerto de Yucatán desde el Siglo XVI hasta inicios del Siglo XX, </br> cuando fue sustituido por el puerto de Progreso, fundado para absorber el manejo de la entonces industria principal del estado, que era la industria henequenera
+        <td id="contenido" style="width:30px; text-align: center; vertical-align: top;" colspan="2">
+    Desde la Epoca Colonial, las ciudades intermedias han repetido patrones de ciudades mayores,uno de estos patrones es la diferenciación socioespacial. </br></br>
+	La estructura de diferenciación socioespacial tiene tendencia recurrente; por ejemplo, si hacemos un viaje en el tipo a la Ciudad Blanca en la conquista, los españoles e indígenas no compartían el mismo espacio, desfavoreciendo siempre a los grupos indigenas  y actualmente diferentes grupos sociales de distintos niveles socioeconómicos y consolidación urbana. </br></br> 
+	La estructura socioespacial se ha basado mayormente en una metodología antropológica; sin embargo, este texto se realizó con un enfoque geográfico. 
+	La segregación socioespacial es uno de los temas más desarrollados en el estudio de las ciudades. Su definición cambia de acuerdo a la disxiplina que lo estudie; algunas de sus definiciones son: </br>
+	<ul>
+	    <li>En Sociología: fuerzas socioeconómicas que dan pie a la separación social de los sectores más pobres, perdiendo de vista a la ciudad como un todo.</li>
+		<li>En Antropología: problema de alejamiento social forzado por grupos.</li>
+        <li>En Geografía: organización espacial de los diferentes grupos sociales en el espacio haciendo alusión a una distribución ideal.
+    </ul>
+    Hablar de segregación no es solamente enfocarnos en exclusión, sino también en la negación del acceso a ciertos bienes y servicios. Surge de la idea de distribución socioespacial de diferentes grupos sociales en el espacio; en donde hay una “lucha” constante entre los grupos más desfavorecidos y el resto de los grupos sociales.</br></br> 
+	Hay dos principales razones por las que se da la segregación socioespacial. </br>
+	<ol>
+		<li>Mercado del suelo y vivienda: La organización de la ciudad es una constante batalla entre diversos agentes que buscan ubicarse en los lugares donde maximicen su utilidad. Algunas personas pueden acceder a mejores localizaciones, cercanas a los centros de mayor valor y con mayor infraestructura, mientras que otras deben localizarse en los lugares con menor valor -generalmente en las periferias-</li>
+		<li>Papel del gobierno: a partir de múltiples acciones, el gobierno puede disminuir o
+	    reducir la segregación socioespacial. Los mecanismos de distribución del ingreso o las políticas de usos del suelo son dos de los medios por los cuales los gobiernos inciden en la distribución espacial de la población.</li>
+	</ol>
+    A través de un recorrido que realicé por las calles del centro de Mérida pude observar que, 
+	la <b>segregación socioespacial</b> comienza en Paseo de Montejo, cubriendo 1.5 km hacia el norte, en este sitio se ubican Las Casas Gemelas en la calle 58 entre 45 y 43. Una de estas casas es habitada por un empresario de <i> Coca-Cola </i> y la otra se convirtió en museo conocido con el nombre de Montejo 495; en esta zona de segregación social también se ubica Palacio Cantón que en fungía como residencia de la familia Cantón Rosado en el siglo XX y actualmente dentro de este se encuentra el Museo Regional de Antropología de Yucatán. Las casas de esta zona son grandes, lujosas, cuentan con patio amplio y estacionamiento para por lo menos tres carros, de igual forma, las personas que habitan estas casas no se les ve salir ni asomarse por las ventanas, entendiéndose como que quieren alejarse del resto de la sociedad. Aquí también se alberga el Monumento a los Montejo, el cual cada 8 de marzo es pintado por mujeres que salen a marchar exigiendo sus derechos. Toda esta zona pertenece a las elites de la Ciudad Blanca.  </br></br>
+	Por otro lado, recorriendo las calles 53 al sur por la 60 se nota el cambio entre grupos sociales, las casas que se ubican aquí están descuidadas o abandonadas, hay cantidad importante de basura en las banquetas, el comercio formal e informal, se encuentran tiendas donde venden productos por mayoreo y las personas que recorren estas calles, normalmente son turistas (extranjeros y nacionales) o personas que van a comprar productos para el hogar, ropa, zapatos, artesanías y otras actividades cotidianas. </br></br> Siendo así un claro ejemplo de <b> segregación socioespacial.</b>
         </td>
       </tr>
     </tbody>
@@ -55,28 +81,6 @@
     </tfoot>
   </table>
 
-</br>
-	<img src="./img/sisal4.jpg" alt="Sisal inicio">
-
-	<p class="parrafo"><em><strong>Sisal</strong> es un puerto mexicano ubicado en el litoral nor-poniente del Estado de Yucatán, </br> en el Golfo de México y localizado en el municipio de Hunucmá. </br> En el pasado fue llamado también Santa María de Zizal.7​Sisal fue históricamente el principal puerto de Yucatán desde el Siglo XVI hasta inicios del Siglo XX, </br> cuando fue sustituido por el puerto de Progreso, fundado para absorber el manejo de la entonces industria principal del estado, que era la industria henequenera.</em></p>
-
-<ul>
-	<li>Caracteristica 1</li>
-	<li>Caracteristica 2</li>
-	<li>Caracteristica 3</li>
-</ul>
-
-<ol class="lista">
-	<li>Caracteristica 1</li>
-	<li>Caracteristica 2</li>
-	<li>Caracteristica 3</li>
-</ol>
-
-
-<p><em><strong>Sisal</strong> .</em></p>
-
-<a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank">Link de la página</a>
--->
   </body>
 
 </html>
